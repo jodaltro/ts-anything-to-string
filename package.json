@@ -1,6 +1,6 @@
 {
   "name": "ts-anything-to-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and useful function to transform anything in a full readable string",
   "main": "dist/index.js",
   "license": "MIT",
