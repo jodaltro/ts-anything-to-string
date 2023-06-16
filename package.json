@@ -1,5 +1,5 @@
 {
-  "name": "anything-to-string",
+  "name": "ts-anything-to-string",
   "version": "1.0.0",
   "description": "A simple and useful function to transform anything in a full readable string",
   "main": "dist/index.js",
@@ -14,8 +14,8 @@
     "test": "jest test/"
   },
   "keywords": [
-    "result",
-    "monad",
+    "function",
+    "string",
     "typescript"
   ],
   "devDependencies": {
